@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**AtsukaDev/atsukadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I’m currently working for **BotLab**
+- 🌱 I develop my projects in **JavaScript** and **Python**
+- 🎯 I'm trying to become **Software Engineer**
+- 📫 How to reach me: **shift__** on Discord
 
-Here are some ideas to get you started:
+## 🔥 Open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Face Recognization](https://github.com/AtsukaDev/ReconnaissanceFaciale)**
+- **[Recover a Discord Server](https://github.com/AtsukaDev/getPermsWithBot)**
+
+### Some statistics
+<img alt="Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=atsukadev&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atsukadev&theme=tokyonight&layout=compact"/>
