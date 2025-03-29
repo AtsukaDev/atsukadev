@@ -1,8 +1,8 @@
 ### Hello 👋
 
 ### About Me
-- 🔭 I’m currently working for **BotLab**
-- 🌱 I develop my projects in **JavaScript** and **Python**
+- 🔭 I’m currently working on personal projects
+- 🌱 I develop my projects in **JavaScript**, **Python**, **Java** and **C**.
 - 🎯 I'm trying to become **Software Engineer**
 - 📫 How to reach me: **shift__** on Discord
 
