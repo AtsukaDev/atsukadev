@@ -12,5 +12,5 @@
 - **[Recover a Discord Server](https://github.com/AtsukaDev/getPermsWithBot)**
 
 ### Some statistics
-<img alt="Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=atsukadev&theme=tokyonight&layout=compact" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atsukadev&show_icons=true&theme=transparent&hide=true" />
 <img alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsukadev&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact" />
