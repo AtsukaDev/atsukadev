@@ -10,6 +10,7 @@
 
 - **[Face Recognization](https://github.com/AtsukaDev/ReconnaissanceFaciale)**
 - **[Recover a Discord Server](https://github.com/AtsukaDev/getPermsWithBot)**
+- **[Kings Game](https://github.com/AtsukaDev/kings_game)**
 
 ### Some statistics
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atsukadev&show_icons=true&hide=issues,contribs&theme=tokyonight&layout=compact&include_all_commits=true" />
