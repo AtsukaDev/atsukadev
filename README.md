@@ -13,4 +13,4 @@
 
 ### Some statistics
 <img alt="Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=atsukadev&theme=tokyonight&layout=compact" />
-<img alt="Langages" src="[https://github-readme-stats-sigma-five.vercel.app/api/?username=atsukadev&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=atsukadev&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact)" />
+<img alt="Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsukadev&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact" />
