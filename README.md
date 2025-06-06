@@ -6,6 +6,9 @@
 - 🎯 I'm trying to become **Software Engineer**
 - 📫 How to reach me: **shift__** on Discord
 
+## Actually working on
+- ### [React Website for my mother](https://github.com/AtsukaDev/MotherPaintings)
+
 ## 🔥 Open source projects
 
 - **[Face Recognization](https://github.com/AtsukaDev/ReconnaissanceFaciale)**
