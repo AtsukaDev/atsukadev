@@ -8,7 +8,6 @@
 
 ## Actually working on
 - ### [React Website for my mother](https://github.com/AtsukaDev/MotherPaintings)
-- ### [Platformer on Unity with a friend](https://github.com/AtsukaDev/platformer)
 
 ## 🔥 Open source projects
 
